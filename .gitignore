@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 HELP.md
 .gradle
 build/
@@ -36,7 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
-=======
 .gradle
 /build/
 
@@ -51,4 +49,3 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
->>>>>>> d54335c0027802f89b1bb5851ee73a7546768eb2
